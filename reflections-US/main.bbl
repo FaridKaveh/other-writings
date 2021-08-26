@@ -1,0 +1,218 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{10.2307/30083977}{article}{}
+      \name{author}{1}{}{%
+        {{hash=39512e2c77560c93cf0afaaad4cd4aa3}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Irish Province of the Society of Jesus}%
+      }
+      \strng{namehash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \strng{fullhash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \strng{bibnamehash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \strng{authorbibnamehash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \strng{authornamehash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \strng{authorfullhash}{39512e2c77560c93cf0afaaad4cd4aa3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00393495}
+      \field{journaltitle}{Studies: An Irish Quarterly Review}
+      \field{number}{3}
+      \field{title}{What Is a Nation?}
+      \field{volume}{1}
+      \field{year}{1912}
+      \field{pages}{496\bibrangedash 510}
+      \range{pages}{15}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/30083977
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/30083977
+      \endverb
+    \endentry
+    \entry{EconomicOrig}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8fcbbe31a3b06859fd252060e3ca9b35}{%
+           family={Egnal},
+           familyi={E\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \strng{fullhash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \strng{bibnamehash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \strng{authorbibnamehash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \strng{authornamehash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \strng{authorfullhash}{8fcbbe31a3b06859fd252060e3ca9b35}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On the contrary, Republicans swore when the war broke out that they would not disturb the "peculiar institution." ...] the moral interpretation overlooks the Republicans' far-reaching economic goals and accomplishments - measures such as a national banking system, higher tariffs, river and harbor improvements, a transcontinental railroad, and a homestead act. During the Reconstruction Era the Republican commitment to the newly freed people remained at best half-hearted while aid for Northern business expanded. ...] the outcome of the Civil War and Reconstruction, with the blacks free but subjugated, and big business flourishing and protected, was not an aberration.}
+      \field{isbn}{0882228X}
+      \field{journaltitle}{Magazine of History}
+      \field{month}{04}
+      \field{note}{Copyright - Copyright Organization of American Historians Apr 2011; Document feature - Photographs; Last updated - 2017-11-19}
+      \field{number}{2}
+      \field{title}{The Economic Origins of the Civil War}
+      \field{volume}{25}
+      \field{year}{2011}
+      \field{pages}{29\bibrangedash 33}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb http://search.proquest.com.ezp.lib.unimelb.edu.au/docview/916423248?accountid=12372
+      \endverb
+      \verb{url}
+      \verb http://search.proquest.com.ezp.lib.unimelb.edu.au/docview/916423248?accountid=12372
+      \endverb
+      \keyw{History; Economic growth; Historians; Secession; African Americans; American Civil War}
+    \endentry
+    \entry{Lincoln}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=723d1f609da582760a371dcbd9cfb93c}{%
+           family={Lincoln},
+           familyi={L\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{fullhash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{bibnamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authorbibnamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authornamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authorfullhash}{723d1f609da582760a371dcbd9cfb93c}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{{Abraham Lincoln papers: Series 3. General Correspondence. 1837 to 1897: Abraham Lincoln, March 4, 1865 Second Inaugural Address; endorsed by Lincoln.}}
+      \field{year}{1865}
+    \endentry
+    \entry{HouseDivided}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=723d1f609da582760a371dcbd9cfb93c}{%
+           family={Lincoln},
+           familyi={L\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{fullhash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{bibnamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authorbibnamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authornamehash}{723d1f609da582760a371dcbd9cfb93c}
+      \strng{authorfullhash}{723d1f609da582760a371dcbd9cfb93c}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{New York Tribune, 24th June 1858, \url{https://www.newspapers.com/clip/11811421/new-york-tribune/}}
+      \field{month}{6}
+      \field{title}{House Divided Speech}
+      \field{year}{1858}
+    \endentry
+    \entry{WhatFoughtFor}{book}{}
+      \name{author}{1}{}{%
+        {{hash=496ba331a08dbbfdc2346d611dfe228b}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Anchor Books}%
+      }
+      \strng{namehash}{496ba331a08dbbfdc2346d611dfe228b}
+      \strng{fullhash}{496ba331a08dbbfdc2346d611dfe228b}
+      \strng{bibnamehash}{496ba331a08dbbfdc2346d611dfe228b}
+      \strng{authorbibnamehash}{496ba331a08dbbfdc2346d611dfe228b}
+      \strng{authornamehash}{496ba331a08dbbfdc2346d611dfe228b}
+      \strng{authorfullhash}{496ba331a08dbbfdc2346d611dfe228b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{What They Fought For 1861-1865}}
+      \field{year}{1995}
+    \endentry
+    \entry{Stephens}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7e39be6c4ccaaf8aa4ab1ac11f601ea9}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \strng{fullhash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \strng{bibnamehash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \strng{authorbibnamehash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \strng{authornamehash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \strng{authorfullhash}{7e39be6c4ccaaf8aa4ab1ac11f601ea9}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{{Available at \url{https://iowaculture.gov/sites/default/files/history-education-pss-civilwar-imagepdf-11-15-2018.pdf} (2020/06/16)}}
+      \field{title}{Cornerstone Speech}
+      \field{year}{1861}
+    \endentry
+    \entry{AmericanRep1}{book}{}
+      \name{author}{1}{}{%
+        {{hash=104c09d049e818a4872b16c606a48e8a}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Harry\bibnamedelima L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{104c09d049e818a4872b16c606a48e8a}
+      \strng{fullhash}{104c09d049e818a4872b16c606a48e8a}
+      \strng{bibnamehash}{104c09d049e818a4872b16c606a48e8a}
+      \strng{authorbibnamehash}{104c09d049e818a4872b16c606a48e8a}
+      \strng{authornamehash}{104c09d049e818a4872b16c606a48e8a}
+      \strng{authorfullhash}{104c09d049e818a4872b16c606a48e8a}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Building the American Republic, Volume 1}}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
